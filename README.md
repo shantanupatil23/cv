@@ -1,1 +1,1 @@
-I am doing a course on Udemy about Web Development.
+I've created this project while doing Web Development course on Udemy.
